@@ -1,8 +1,6 @@
-# Beyond the Scoreboard
-
 ## Can We Predict the Winner of a Professional League of Legends Match at 20 Minutes?
 
-**Author:** [Your Name]  
+**Author:** Leadon Liao  
 **Course:** DSC 80, University of California San Diego  
 **Dataset:** Oracle's Elixir 2025 League of Legends Esports Match Data
 
